@@ -42,11 +42,17 @@ function countdown3() {
 	document.getElementById('vdo').style.display="block";
 	x.play();
 	x.volume=0.05;
-	window.setTimeout(vdo1,1000);
+	var v=document.getElementById('vdo');
+	v.onload = window.setTimeout(vdo1,1000);
+	//window.setTimeout(vdo1,1000);
 	document.getElementById('i7').style.display="block";
 }
 function vdo1() {
 	var v=document.getElementById('vdo');
+	//v.onload = functiona() {
+	//				v.play();
+	//				v.volume=1;
+	//			}
 	v.play();
 	v.volume=1;
 }
