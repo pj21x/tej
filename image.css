@@ -1,6 +1,5 @@
 #i1 {
 	height: 100px;
-
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -21,7 +20,7 @@
 	height: 100px;
 	position: absolute;
 	top: 500px;
-	left: 200px;
+	left: 100px;
 	opacity: 0.5;
 	display: none;
 	z-index: -1;
@@ -65,8 +64,8 @@
 #i8 {
 	height: 100px;
 	position: absolute;
-	top: 500px;
-	left: 200px;
+	bottom: 80px;
+	right: 0px;
 	opacity: 0.5;
 	display: none;
 	z-index: -1;
@@ -75,7 +74,7 @@
 	height: 100px;
 	position: absolute;
 	top: 200px;
-	right: 200px;
+	left: 200px;
 	opacity: 0.5;
 	display: none;
 	z-index: -1;
@@ -83,9 +82,423 @@
 #i10 {
 	height: 100px;
 	position: absolute;
-	top: 100px;
+	top: 0px;
+	left: 1100px;
+	opacity: 0.5;
+	display: none;
+	z-index: -1;
+}
+#i11 {
+	height: 80px;
+	position: absolute;
+	bottom: 0px;
+	left: 300px;
+	opacity: 0.5;
+	display: none;
+	z-index: -1;
+}
+#i12 {
+	height: 80px;
+	position: absolute;
+	top: 50%;
 	left: 500px;
 	opacity: 0.5;
 	display: none;
 	z-index: -1;
+}
+#i13 {
+	height: 80px;
+	position: absolute;
+	bottom: 0;
+	right: 50%;
+	opacity: 0.5;
+	display: none;
+	z-index: -1;
+}
+#i14 {
+	height: 80px;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	opacity: 0.5;
+	display: none;
+	z-index: -1;
+}
+#i15 {
+	height: 80px;
+	position: absolute;
+	top: 0;
+	right: 0;
+	opacity: 0.5;
+	display: none;
+	z-index: -1;
+}
+#i16 {
+	height: 80px;
+	position: absolute;
+	top: 0;
+	left: 50%;
+	opacity: 0.5;
+	display: none;
+	z-index: -1;
+}
+#i17 {
+	height: 80px;
+	position: absolute;
+	bottom: 0;
+	left: 50%;
+	opacity: 0.5;
+	display: none;
+	z-index: -1;
+}
+#i18 {
+	height: 80px;
+	position: absolute;
+	top: 400px;
+	right: 500px;
+	opacity: 0.5;
+	display: none;
+	z-index: -1;
+}
+#i19 {
+	height: 80px;
+	position: absolute;
+	top: 100px;
+	right: 200px;
+	opacity: 0.5;
+	display: none;
+	z-index: -1;
+}
+#i20 {
+	height: 80px;
+	position: absolute;
+	bottom: 50%;
+	left: 0;
+	opacity: 0.5;
+	display: none;
+	z-index: -1;
+}
+#i21 {
+	height: 80px;
+	position: absolute;
+	top: 0;
+	right: 50%;
+	opacity: 0.5;
+	display: none;
+	z-index: -1;
+}
+#i22 {
+	height: 80px;
+	position: absolute;
+	top: 100px;
+	right: 0px;
+	opacity: 0.5;
+	display: none;
+	z-index: -1;
+}
+#i23 {
+	height: 80px;
+	position: absolute;
+	top: 50%;
+	left: 400px;
+	opacity: 0.5;
+	display: none;
+	z-index: -1;
+}
+#i24 {
+	height: 80px;
+	position: absolute;
+	top: 50%;
+	left: 0;
+	opacity: 0.5;
+	display: none;
+	z-index: -1;
+}
+#i25 {
+	height: 80px;
+	position: absolute;
+	bottom: 50%;
+	right: 0;
+	opacity: 0.5;
+	display: none;
+	z-index: -1;
+}
+#i26 {
+	height: 80px;
+	position: absolute;
+	top: 0;
+	left: 200px;
+	opacity: 0.5;
+	display: none;
+	z-index: -1;
+}
+#i27 {
+	height: 80px;
+	position: absolute;
+	bottom: 0;
+	right: 200px;
+	opacity: 0.5;
+	display: none;
+	z-index: -1;
+}
+#i28 {
+	height: 80px;
+	position: absolute;
+	top: 200px;
+	right: 400px;
+	opacity: 0.5;
+	display: none;
+	z-index: -1;
+}
+#i29 {
+	height: 80px;
+	position: absolute;
+	bottom: 100px;
+	left: 400px;
+	opacity: 0.5;
+	display: none;
+	z-index: -1;
+}
+#i30 {
+	height: 80px;
+	position: absolute;
+	top: 50%;
+	right: 0;
+	opacity: 0.5;
+	display: none;
+	z-index: -1;
+}
+#i31 {
+	height: 80px;
+	position: absolute;
+	bottom: 0;
+	right: 500px;
+	opacity: 0.5;
+	display: none;
+	z-index: -1;
+}
+#i32 {
+	height: 80px;
+	position: absolute;
+	top: 100px;
+	left: 0;
+	opacity: 0.5;
+	display: none;
+	z-index: -1;
+}
+#i33 {
+	height: 80px;
+	position: absolute;
+	top: 100px;
+	right: 600px;
+	opacity: 0.5;
+	display: none;
+	z-index: -1;
+}
+#i34 {
+	height: 80px;
+	position: absolute;
+	bottom: 100px;
+	left: 600px;
+	opacity: 0.5;
+	display: none;
+	z-index: -1;
+}
+#i35 {
+	height: 80px;
+	position: absolute;
+	top: 400px;
+	left: 200px;
+	opacity: 0.5;
+	display: none;
+	z-index: -1;
+}
+#i36 {
+	height: 80px;
+	position: absolute;
+	top: 200px;
+	left: 300px;
+	opacity: 0.5;
+	display: none;
+	z-index: -1;
+}
+#i37 {
+	height: 80px;
+	position: absolute;
+	bottom: 100px;
+	right: 500px;
+	opacity: 0.5;
+	display: none;
+	z-index: -1;
+}
+#i38 {
+	height: 80px;
+	position: absolute;
+	bottom: 100px;
+	left: 0;
+	opacity: 0.5;
+	display: none;
+	z-index: -1;
+}
+#i39 {
+	height: 80px;
+	position: absolute;
+	bottom: 200px;
+	right: 100px;
+	opacity: 0.5;
+	display: none;
+	z-index: -1;
+}
+#i40 {
+	height: 80px;
+	position: absolute;
+	top: 200px;
+	left: 0px;
+	opacity: 0.5;
+	display: none;
+	z-index: -1;
+}
+#i41 {
+	height: 80px;
+	position: absolute;
+	bottom: 0;
+	left: 200px;
+	opacity: 0.5;
+	display: none;
+	z-index: -1;
+}
+#i42 {
+	height: 80px;
+	position: absolute;
+	bottom: 50%;
+	right: 400px;
+	opacity: 0.5;
+	display: none;
+	z-index: -1;
+}
+#i43 {
+	height: 80px;
+	position: absolute;
+	bottom: 50px;
+	left: 500px;
+	opacity: 0.5;
+	display: none;
+	z-index: -1;
+}
+#i44 {
+	height: 80px;
+	position: absolute;
+	bottom: 200px;
+	right: 400px;
+	opacity: 0.5;
+	display: none;
+	z-index: -1;
+}
+#i45 {
+	height: 80px;
+	position: absolute;
+	top: 250px;
+	left: 450px;
+	opacity: 0.5;
+	display: none;
+	z-index: -1;
+}
+#i46 {
+	height: 80px;
+	position: absolute;
+	top: 0;
+	right: 150px;
+	opacity: 0.5;
+	display: none;
+	z-index: -1;
+}
+#i47 {
+	height: 80px;
+	position: absolute;
+	bottom: 150px;
+	left: 250px;
+	opacity: 0.5;
+	display: none;
+	z-index: -1;
+}
+#i48 {
+	height: 80px;
+	position: absolute;
+	bottom: 0;
+	right: 350px;
+	opacity: 0.5;
+	display: none;
+	z-index: -1;
+}
+#i49 {
+	height: 80px;
+	position: absolute;
+	top: 50px;
+	left: 350px;
+	opacity: 0.5;
+	display: none;
+	z-index: -1;
+}
+#i50 {
+	height: 80px;
+	position: absolute;
+	top: 0;
+	right: 550px;
+	opacity: 0.5;
+	display: none;
+	z-index: -1;
+}
+#i51 {
+	height: 80px;
+	position: absolute;
+	top: 50%;
+	left: 100px;
+	opacity: 0.5;
+	display: none;
+	z-index: -1;
+}
+#i52 {
+	height: 80px;
+	position: absolute;
+	top: 100px;
+	right: 50%;
+	opacity: 0.5;
+	display: none;
+	z-index: -1;
+}
+#i53 {
+	height: 80px;
+	position: absolute;
+	bottom: 100px;
+	left: 50%;
+	opacity: 0.5;
+	display: none;
+	z-index: -1;
+}
+#i54 {
+	height: 80px;
+	position: absolute;
+	top: 100px;
+	left: 100px;
+	opacity: 0.5;
+	display: none;
+	z-index: -1;
+}
+#i55 {
+	height: 80px;
+	position: absolute;
+	bottom: 100px;
+	right: 100px;
+	opacity: 0.5;
+	display: none;
+	z-index: -1;
+}
+#i56 {
+	height: 300px;
+	position: absolute;
+	top: 30%;
+	left: 650px;
+	opacity: 1;
+	display: none;
+	z-index: 1;
 }
